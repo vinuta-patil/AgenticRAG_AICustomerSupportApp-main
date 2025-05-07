@@ -1,0 +1,149 @@
+Q: How can I track my order?
+A: You can track your order by visiting our tracking page at example.com/track and entering your order ID.
+
+Q: Where can I see my order status?
+A: Visit example.com/track and enter your order ID to view your current order status.
+
+Q: Is there a tracking number for my shipment?
+A: Yes, your tracking number is included in the confirmation email sent after shipping.
+
+Q: What is your return policy?
+A: Our return policy allows returns within 30 days of purchase, provided you have the original receipt.
+
+Q: Can I return a product without a receipt?
+A: No, a receipt is required to process all returns.
+
+Q: How long do refunds take to process?
+A: Refunds typically take 5–7 business days to appear in your account after approval.
+
+Q: How can I contact customer support?
+A: You can email us at support@example.com or call us at 1-800-555-1234.
+
+Q: What’s the best way to reach support?
+A: The quickest way is by emailing support@example.com. You can also call 1-800-555-1234.
+
+Q: Do you offer live chat support?
+A: Currently, we do not offer live chat. Please contact us via email or phone.
+
+Q: How do I reset my password?
+A: Click “Forgot Password” on the login page and follow the instructions in the email you receive.
+
+Q: I forgot my login credentials. What should I do?
+A: Use the “Forgot Password” link or contact support for help resetting your login.
+
+Q: Can I change the email address on my account?
+A: Yes, go to Account Settings and click “Edit Email Address” to update your details.
+
+Q: How do I cancel my order?
+A: You can cancel your order within 2 hours of placing it by contacting support.
+
+Q: My order is delayed. What should I do?
+A: Delays can happen due to high demand. Check your tracking link or contact support for updates.
+
+Q: Do you ship internationally?
+A: Yes, we ship to most countries. Shipping fees and delivery times vary by location.
+
+Q: What are your shipping options?
+A: We offer Standard (5–7 days) and Express (2–3 days) shipping options at checkout.
+
+Q: How do I apply a discount code?
+A: Enter your discount code on the checkout page in the "Promo Code" field.
+
+Q: Why isn’t my discount code working?
+A: Make sure the code is valid and not expired. If issues persist, contact support.
+
+Q: What payment methods do you accept?
+A: We accept Visa, MasterCard, American Express, PayPal, and Apple Pay.
+
+Q: Can I pay with PayPal?
+A: Yes, PayPal is accepted at checkout.
+
+Q: Is my payment information secure?
+A: Yes, all transactions are encrypted and processed through a secure payment gateway.
+
+Q: Do you offer gift cards?
+A: Yes, digital gift cards are available in various denominations on our website.
+
+Q: How do I check my gift card balance?
+A: You can check your gift card balance on the gift card page by entering the card number.
+
+Q: How do I update my shipping address?
+A: Log in to your account and go to “Shipping Information” to edit your address.
+
+Q: What happens if I receive a damaged item?
+A: Please contact support immediately with photos, and we’ll arrange a replacement or refund.
+
+Q: What should I do if my order hasn't arrived?
+A: If your order is past the expected delivery date, please contact support with your order ID.
+
+Q: Can I change items in my order after placing it?
+A: Orders cannot be modified after placement. You may cancel and reorder within 2 hours.
+
+Q: How do I create a new account?
+A: Click “Sign Up” on the homepage and fill in your details to create an account.
+
+Q: Can I use multiple promo codes on one order?
+A: Only one promo code can be applied per order.
+
+Q: What happens if my payment is declined?
+A: Check your payment details or contact your bank. You can try another payment method as well.
+
+Q: Do you charge sales tax?
+A: Yes, sales tax is applied based on your location and local tax regulations.
+
+Q: Can I request an invoice for my purchase?
+A: Yes, invoices are automatically sent to your registered email after each purchase.
+
+Q: How can I update my billing address?
+A: Log into your account, go to “Billing Info,” and update your billing address.
+
+Q: Are your products covered by warranty?
+A: Yes, all products come with a 1-year limited warranty unless otherwise stated.
+
+Q: Where can I find product manuals?
+A: Product manuals are available for download on each product’s page under the "Documentation" tab.
+
+Q: Do you offer installation support?
+A: We provide installation guides and video tutorials on our Help Center.
+
+Q: How do I delete my account?
+A: To delete your account, contact support with a deletion request from your registered email.
+
+Q: How do I subscribe to your newsletter?
+A: Enter your email at the bottom of our homepage to subscribe to our newsletter.
+
+Q: Can I opt out of promotional emails?
+A: Yes, click “Unsubscribe” at the bottom of any promotional email.
+
+Q: Do you have a loyalty or rewards program?
+A: Yes, you can earn points for purchases and redeem them for discounts through our Rewards page.
+
+Q: How can I check my reward points balance?
+A: Log into your account and go to the “Rewards” section to view your points balance.
+
+Q: Do you restock sold-out items?
+A: Yes, restocks occur regularly. You can sign up for notifications on the product page.
+
+Q: How do I report a technical issue on your site?
+A: Please email support@example.com with screenshots and a description of the issue.
+
+Q: Can I leave a review for a product?
+A: Yes, go to the product page and click “Write a Review” under customer feedback.
+
+Q: Do you have a mobile app?
+A: Yes, our mobile app is available on iOS and Android for faster shopping and order tracking.
+
+Q: How do I enable notifications on your app?
+A: Go to your phone’s settings and enable notifications for our app.
+
+Q: What if I entered the wrong shipping address?
+A: Contact support immediately. If the order hasn’t shipped, we may be able to update it.
+
+Q: How can I find the size guide?
+A: Size guides are available on each product page under the “Size Guide” tab.
+
+Q: Do you offer bulk or business discounts?
+A: Yes, for bulk or corporate orders, please contact sales@example.com for a custom quote.
+
+Q: Where are your products manufactured?
+A: Our products are manufactured in the USA and certified facilities abroad.
